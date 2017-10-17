@@ -2,7 +2,7 @@
 
 # Introduction
 
-Developers' ten to simulate their designs to validate the RTL design and functionality, before hitting the build stage and registering it with AWS EC2 as Amazon FPGA Image (AFI). AWS FPGA HDK supports RTL-level simulation using Xilinx' Vivado XSIM,  MentorGraphics' Questa, and Synopsys' VCS RTL simulators. Developers can write their tests in SystemVerilog and/or C languages. If a developer choose to use the supplied C framework, he/she can use the same C code for simulation and for runtime on your FPGA-enabled instance like F1.
+Developers' tend to simulate their designs to validate the RTL design and functionality, before hitting the build stage and registering it with AWS EC2 as Amazon FPGA Image (AFI). AWS FPGA HDK supports RTL-level simulation using Xilinx' Vivado XSIM,  MentorGraphics' Questa, and Synopsys' VCS RTL simulators. Developers can write their tests in SystemVerilog and/or C languages. If a developer choose to use the supplied C framework, he/she can use the same C code for simulation and for runtime on your FPGA-enabled instance like F1.
 
 <img src="./ppts/simulation/Slide2.PNG" alt="Testbench Top-Level Diagram">
 
